@@ -6,7 +6,7 @@
 
 - 🌱 I’m learning right now **.Net Core and Angular**
 
-- 👯 I finish my academic studies on **Henry**
+- 👯 I completed my academic studies at **Henry**
 
 - 📫 How to reach me **carlosandresbarrerab@gmail.com**
 
